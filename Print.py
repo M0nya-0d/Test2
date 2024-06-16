@@ -2,5 +2,5 @@ import time
 print "bybybyty"
 print "DYDYDYDY"
 print "DYDYDYDY"
-print "RRRRRRbybybytybybybytybybybyty"
+print "bybytybybybyty"
 time.sleep(10)
