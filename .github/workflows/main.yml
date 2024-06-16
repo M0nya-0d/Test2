@@ -34,5 +34,8 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      #- name: Display Python version
-      #  run: cd actions-runner/_work/Test2/Test2/python job.py
+     # - name: JObs
+     #   run: cd actions-runner/_work/Test2/Test2/python job.py
+      - name: JObsss
+        run: python job.py
+
