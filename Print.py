@@ -1,3 +1,3 @@
 import time
-print ("bybyby")
+print "bybyby"
 time.sleep(10)
