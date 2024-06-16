@@ -32,7 +32,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          #python job.py
+          python job.py
      # - name: JObs
      #   run: cd actions-runner/_work/Test2/Test2/python job.py
      # - name: JObsss
