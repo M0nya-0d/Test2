@@ -1,2 +1,2 @@
 while True:
-  execfile('Print')
+  execfile('Print.py')
