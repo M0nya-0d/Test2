@@ -1,6 +1,6 @@
 import os
-import schedule
-import requests
+import schedule # type: ignore
+import requests # type: ignore
 
 def regen():
     os.system('python test.py')
