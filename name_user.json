@@ -1,22 +1,145 @@
 {
     "parametr": [
         {
-            "hp": 6666,
+            "hp": 6614,
             "rad": 666,
             "sost_psy": 6660,
             "arm_rad": 660,
             "arm_psy": 6663,
             "arm_elect": 6660,
             "arm_ximiy": 6660
-        },
+        }
+    ],
+    "parametr1": [
         {
-            "hp": null,
-            "rad": null,
-            "sost_psy": null,
-            "arm_rad": null,
-            "arm_psy": null,
-            "arm_elect": null,
-            "arm_ximiy": null
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr2": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr3": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr4": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr5": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr6": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr7": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr8": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr9": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr10": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr11": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
+        }
+    ],
+    "parametr12": [
+        {
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
         }
     ]
 }
