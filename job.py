@@ -5,13 +5,13 @@ user_name = "parametr6"
 file = open('inc.txt', 'r', encoding='utf-8')
 inc = int(file.read())
 file.close()
-)
+
 def regen():
-    os.system('python test.py')
+    os.system('python3 test.py')
 
 #def ded_kill():
-#    os.system('python kill.py')
-#os.system('python sborUserName.py')
+#    os.system('python3 kill.py')
+#os.system('python3 sborUserName.py')
 def main():
     schedule.every(2).seconds.do(regen)
     #schedule.every(20).seconds.do(ded_kill)
@@ -24,7 +24,7 @@ def main():
             file = open('inc.txt', 'w', encoding='utf-8')
             file.write('0')
             file.close()
-            os.system('python sborUserName.py')
+            os.system('python3 sborUserName.py')
 
 if __name__ == '__main__':
     main()
