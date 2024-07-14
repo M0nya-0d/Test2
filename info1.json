@@ -20,5 +20,16 @@
             "arm_elect": 11111,
             "arm_ximiy": 11111
         }
+    ],
+    "parametr2": [
+        {
+            "hp": 3318,
+            "rad": 63350,
+            "sost_psy": 0,
+            "arm_rad": 0,
+            "arm_psy": 3,
+            "arm_elect": 0,
+            "arm_ximiy": 0
+        }
     ]
 }
