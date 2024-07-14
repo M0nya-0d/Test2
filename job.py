@@ -12,7 +12,7 @@ def regen():
 #def ded_kill():
 #    os.system('python3 kill.py')
 #os.system('python3 sborUserName.py')
-def main():
+def mainn():
     schedule.every(2).seconds.do(regen)
     #schedule.every(20).seconds.do(ded_kill)
     while True:
@@ -27,4 +27,4 @@ def main():
             os.system('python3 sborUserName.py')
 
 if __name__ == '__main__':
-    main()
+    mainn()
