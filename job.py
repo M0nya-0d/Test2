@@ -5,8 +5,8 @@ import requests
 def regen():
     os.system('python test.py')
 
-def ded_kill():
-    os.system('python kill.py')
+#def ded_kill():
+#    os.system('python kill.py')
 
 def main():
     schedule.every(2).seconds.do(regen)
