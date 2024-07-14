@@ -3,7 +3,7 @@ import schedule # type: ignore
 import requests # type: ignore
 
 def regen():
-    os.system('python test.py')
+    os.system('py test.py')
 
 #def ded_kill():
 #    os.system('python kill.py')

@@ -44,13 +44,13 @@ def zapis():
 def sbor():
     d_data = read_info('info1.json')
     g = User()
-    g.hp  = d_data['parametr1'][0]['hp']
-    g.rad = d_data['parametr1'][0]['rad']
-    g.sost_psy = d_data['parametr1'][0]['sost_psy']
-    g.arm_rad = d_data['parametr1'][0]['arm_rad']
-    g.arm_psy = d_data['parametr1'][0]['arm_psy']
-    g.arm_elect = d_data['parametr1'][0]['arm_elect']
-    g.arm_ximiy = d_data['parametr1'][0]['arm_ximiy']
+    g.hp  = d_data['parametr'][0]['hp']
+    g.rad = d_data['parametr'][0]['rad']
+    g.sost_psy = d_data['parametr'][0]['sost_psy']
+    g.arm_rad = d_data['parametr'][0]['arm_rad']
+    g.arm_psy = d_data['parametr'][0]['arm_psy']
+    g.arm_elect = d_data['parametr'][0]['arm_elect']
+    g.arm_ximiy = d_data['parametr'][0]['arm_ximiy']
     global hp, rad, sost_psy, arm_rad, arm_psy, arm_elect, arm_ximiy
     hp =  (g.hp)
     rad = (g.rad)
@@ -75,7 +75,7 @@ def regen():
         if (rad >= 100 and rad <= 400):
             hp  -= 2
             rad -= 1
-        if(rad > 400 and rad <= 700):
+        if(rad > 400 and rad < 700):
             hp -= 2
         if (rad >= 700):
             hp -= 4

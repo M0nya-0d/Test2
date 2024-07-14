@@ -1,35 +1,13 @@
 {
     "parametr": [
         {
-            "hp": 3318,
-            "rad": 63350,
-            "sost_psy": 0,
-            "arm_rad": 0,
-            "arm_psy": 3,
-            "arm_elect": 0,
-            "arm_ximiy": 0
-        }
-    ],
-    "parametr1": [
-        {
-            "hp": 1111,
-            "rad": 1111,
+            "hp": 1079,
+            "rad": 2222,
             "sost_psy": 11111,
             "arm_rad": 1111,
             "arm_psy": 11111,
             "arm_elect": 11111,
             "arm_ximiy": 11111
-        }
-    ],
-    "parametr2": [
-        {
-            "hp": 3318,
-            "rad": 63350,
-            "sost_psy": 0,
-            "arm_rad": 0,
-            "arm_psy": 3,
-            "arm_elect": 0,
-            "arm_ximiy": 0
         }
     ]
 }
