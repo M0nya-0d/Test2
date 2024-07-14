@@ -1,13 +1,13 @@
 {
     "parametr": [
         {
-            "hp": 1079,
-            "rad": 2222,
-            "sost_psy": 11111,
-            "arm_rad": 1111,
-            "arm_psy": 11111,
-            "arm_elect": 11111,
-            "arm_ximiy": 11111
+            "hp": 6614,
+            "rad": 666,
+            "sost_psy": 6660,
+            "arm_rad": 660,
+            "arm_psy": 6663,
+            "arm_elect": 6660,
+            "arm_ximiy": 6660
         }
     ]
 }
