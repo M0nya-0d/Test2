@@ -6,18 +6,13 @@ file = open('inc.txt', 'r', encoding='utf-8')
 inc = int(file.read())
 file.close()
 
-#if(inc == 1):
-#    os.system('py sborUserName.py')
-    #file.write('0')
-
-
 def regen():
-    os.system('py test.py')
+    os.system('python3 test.py')
 
 #def ded_kill():
-#    os.system('python kill.py')
-#os.system('py sborUserName.py')
-def main():
+#    os.system('python3 kill.py')
+#os.system('python3 sborUserName.py')
+def mainn():
     schedule.every(2).seconds.do(regen)
     #schedule.every(20).seconds.do(ded_kill)
     while True:
@@ -29,10 +24,7 @@ def main():
             file = open('inc.txt', 'w', encoding='utf-8')
             file.write('0')
             file.close()
-            os.system('py sborUserName.py')
-
-
-
+            os.system('python3 sborUserName.py')
 
 if __name__ == '__main__':
-    main()
+    mainn()

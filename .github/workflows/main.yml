@@ -30,9 +30,9 @@ jobs:
       #  run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
-      #- name: Run a multi-line script
-      #  run: |
-      #    #python Print.py
+      - name: Run a multi-line script
+        run: |
+          #python Print.py
      # - name: JObs
      #   run: cd actions-runner/_work/Test2/Test2/python job.py
      # - name: JObsss
