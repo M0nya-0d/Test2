@@ -1,6 +1,6 @@
 import os
-import schedule # type: ignore
-import requests
+import schedule 
+#import requests
 user_name = "parametr6"
 file = open('inc.txt', 'r', encoding='utf-8')
 inc = int(file.read())
