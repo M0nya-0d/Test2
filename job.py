@@ -1,3 +1,3 @@
 #Job.py
 while True:
-  execfile('start.py')
+  python3 start.py
