@@ -1,5 +1,6 @@
 #Job.py
+import os
 while True:
-  python3 start.py
+  os.system('python3 test.py')
 
 #######################
