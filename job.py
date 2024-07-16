@@ -1,6 +1,5 @@
-#Job.py
+#Job
 import os
 while True:
-  os.system('python3 test.py')
-
-#######################
+  os.system('python3 start.py')
+  
