@@ -1,3 +1,5 @@
 #Job.py
 while True:
-  python3 start.py
+  with open("script.py") as f:
+    code = compile(f.read(), "script.py", 'exec')
+    exec(code)
