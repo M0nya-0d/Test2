@@ -2,7 +2,8 @@
 #!/usr/bin/python3
 import os
 while True:
-  exec(open('start.py').read())
+  /usr/bin/python3 start.py
+  #exec(open('start.py').read())
 #def mainn():
 #    os.system('python3 start.py')
 #    while True:
