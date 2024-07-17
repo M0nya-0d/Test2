@@ -1,7 +1,7 @@
 #Job
 #!/usr/bin/python3
 import os
-while True:
+#while True:
   #/usr/bin/python3 start.py
   #exec(open('start.py').read())
 def mainn():
