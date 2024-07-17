@@ -2,7 +2,7 @@
 import os
 import schedule 
 #import requests
-user_name = "parametr6"
+user_name = "parametr1"
 file = open('inc.txt', 'r', encoding='utf-8')
 inc = int(file.read())
 file.close()
